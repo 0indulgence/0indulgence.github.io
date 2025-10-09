@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello! I am Zhaoxuan, currently a Master's student in Computer Science at [Nanjing University of Science and Technology](https://scs.njust.edu.cn), supervised by Professor [Luo Lei]([https://scholar.google.com/citations?user=i3b5t0YAAAAJ&hl=zh-CN](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=DPfhfYXmx8IQ4A!1dnh2fg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=)). Previously, I obtained my Bachelor of Engineering degree from the School of [Cyber Science and Engineering at Nanjing University of Science and Technology](https://scs.njust.edu.cn), under the guidance of [Professor Lian Zhichao](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=).
 
-📣 I'm seeking a summer internship for 2026 🥺
+📣 I'm seeking a summer internship for 2026 🥺<br>
 📌 Here is my [Resume](../assets/GZX-20250326.pdf) for your reference, last updated in Oct. 2025. 🤩
 
 Research Interests
