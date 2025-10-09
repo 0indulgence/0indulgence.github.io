@@ -6,10 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello! I am Zhaoxuan, currently a Master's student in Computer Science at [Nanjing University of Science and Technology](https://scs.njust.edu.cn), supervised by Professor [Luo Lei]([https://scholar.google.com/citations?user=i3b5t0YAAAAJ&hl=zh-CN](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=DPfhfYXmx8IQ4A!1dnh2fg==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=)). Previously, I obtained my Bachelor of Engineering degree from the School of [Cyber Science and Engineering at Nanjing University of Science and Technology](https://scs.njust.edu.cn), under the guidance of [Professor Lian Zhichao](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=M3kK3EWHXJc6xzMaFrhOQA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=).
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
