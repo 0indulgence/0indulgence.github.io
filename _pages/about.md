@@ -13,6 +13,10 @@ Hello! I am Zhaoxuan, currently a Master's student in Computer Science at [Nanji
 
 🏫 Education
 ======
+- B.Eng in Computer Science and Technology,Nanjing University of Science and Technology<br>
+  - Sep. 2025 - Current
+  - Supervisor: Prof. Lei Luo <br>
+  - Research Focus: Diffusion-based Image Generation,particularly focus on Controllable Image Editing.
 - B.Eng in Cyber Science and Engineering, Nanjing University of Science and Technology<br>
   - Sep. 2021 - June. 2025<br>
   - Supervisor: Prof. Zhichao Lian<br>
