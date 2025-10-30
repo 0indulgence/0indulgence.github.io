@@ -14,10 +14,10 @@ Hello! I am Zhaoxuan, currently a Master's student in Computer Science at [Nanji
 🏫 Education
 ======
 - B.Eng in Cyber Science and Engineering, Nanjing University of Science and Technology<br>
-- Sep. 2021 - June. 2025<br>
-- Supervisor: Prof. Zhichao Lian<br>
-- GPA: 89.35/100 (ranked 2/70), recipient of the Shuangliang Scholarship, 2023-2024 Academic Year<br>
-- Undergraduate Thesis: A Unified Human Image Generation Framework Based on Diffusion Model.<br>
+  - Sep. 2021 - June. 2025<br>
+  - Supervisor: Prof. Zhichao Lian<br>
+  - GPA: 89.35/100 (ranked 2/70), recipient of the Shuangliang Scholarship, 2023-2024 Academic Year<br>
+  - Undergraduate Thesis: A Unified Human Image Generation Framework Based on Diffusion Model.<br>
 
 Getting started
 ======
